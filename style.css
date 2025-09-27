@@ -111,7 +111,7 @@ main{
     height: 100%;
 }
 .imgens > img{
-    
+
     width: 100%;
 }
 
@@ -167,7 +167,7 @@ main{
     box-sizing: border-box;
 }
 
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 768px){
     main{
         display: flex;
         flex-direction: column;
